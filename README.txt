@@ -1,4 +1,4 @@
-1. Se realiza el analisis de dos sitios web:
+1. Se realiza el analisis de dos sitios web que venden ropa para mujer:
  - https://www.simpleretro.com/collections/view-all
  - https://www.unique-vintage.com/collections/dresses
 
